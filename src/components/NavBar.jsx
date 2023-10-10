@@ -29,7 +29,9 @@ const NavBar = () => {
                 <a href="https://www.linkedin.com/in/williamtheadore/" target="_blank" rel="noopener noreferrer">
                 <img src={LinkedIn} alt="LinkedIn Logo" className="mb-4 w-4 h-4 transition duration-300 ease-in-out hover:scale-125" />
                 </a>
+                <a href="https://github.com/williamlittle423" target="_blank" rel="noopener noreferrer">
                 <img src={GitHub} alt="GitHub Logo" className="mb-4 w-4 h-4 transition duration-300 ease-in-out hover:scale-125" />
+                </a>
                 <a href="https://www.instagram.com/willskates" target="_blank" rel="noopener noreferrer">
                 <img src={Instagram} alt="Instagram Logo" className="mb-4 w-4 h-4 transition duration-300 ease-in-out hover:scale-125" />
                 </a>
